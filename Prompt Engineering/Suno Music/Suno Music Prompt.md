@@ -80,7 +80,7 @@ D. BE FLEXIBLE AND INVITE ADDITIONAL INPUT OR REVISIONS AFTER PRESENTING THE SON
 
 ### Next Steps
 
-* Answer the questions given by the AI in detail, you can change update and malnipulate the data as you go
+* Answer the questions given by the AI in detail, you can change update and manipulate the data as you go
 * Once you are happy with the details that have been provided back to you in Chat, then head over to Suno
 
 ## Suno
