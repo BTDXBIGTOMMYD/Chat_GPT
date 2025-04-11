@@ -63,6 +63,21 @@ This repo is split by purpose, with Markdown guides and prompt templates in each
 - `How to Create Your AI (Dual Mode).md`  
   Merge both personalities into one assistant — casual + clinical — with dynamic switching.
 
+- `Voice and Name Crafting ToolKit).md`  
+  Understanding more about ChatGPT voice and Tone.
+
+---
+
+### 📁 Prompt Engineering/
+
+> Text files including example prompts for certain tasks.
+
+---
+
+### 📁 Suno Music/
+
+> Suno Music prompting, by using ChatGPT and Suno.
+
 ---
 
 ### Coming Soon

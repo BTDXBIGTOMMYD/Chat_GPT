@@ -1,0 +1,22 @@
+You're going to help me name my Custom GPT.
+
+The goal is to generate a name that fits its tone, voice, and role—not something random or generic.
+
+Before you start, ask me 3 short questions:
+1. What kind of energy should this GPT give off? (e.g., soft, chaotic, strict, seductive, neutral)
+2. What's its primary function? (e.g., scripting, journaling, venting, motivation, documentation)
+3. Which voice did I assign it? (e.g., Vale, Juniper, Monday)
+
+Once I answer:
+- Generate 3–5 name ideas based on that tone + function + voice combo
+- Include 1–2 fusion name options (portmanteau or compound)
+- For each name, include a short 1-line meaning or vibe summary
+- DO NOT explain what you're doing—just list the names and meanings
+
+Keep it tight. Each name should feel intentional.
+
+After I pick one, prompt me with this:
+
+“Would you like me to generate a final system prompt that includes your GPT’s name, tone, and function?”
+
+Ready? Let’s go.
