@@ -44,15 +44,37 @@ This isn’t just about prompts—it’s about **partnership**. The name on the 
 
 ---
 
-## Folder Breakdown (WIP)
+## Folder Breakdown
 
-- `Prompt Engineering/`  
-  Real examples broken down by topic or tool. Currently includes:
+This repo is split by purpose, with Markdown guides and prompt templates in each.
 
-  - `Suno Music/`  
-    Crafting AI-generated songs using ChatGPT + Suno AI.
+---
 
-More folders coming soon—covering technical automation, report generation, content workflows, and more.
+### 📁 Custom GPT/
+
+> Core logic, strategies, and custom GPT design walkthroughs.
+
+- `How to Create Your AI (Personal).md`  
+  Build a personal GPT that mirrors your tone, energy, and emotional patterns.
+
+- `How to Create Your AI (Workflow).md`  
+  Configure an AI that’s task-first: clean, structured, and ready to automate or document.
+
+- `How to Create Your AI (Dual Mode).md`  
+  Merge both personalities into one assistant — casual + clinical — with dynamic switching.
+
+---
+
+### Coming Soon
+
+- `Documentation & Reports/`  
+  Guides for AI-driven report generation, technical write-ups, and status summaries.
+
+- `Scripting & Automation/`  
+  Prompt templates and walkthroughs for building code with context: PowerShell, YAML, SWQL, etc.
+
+- `Voice & Identity/`  
+  How to style, name, and vocalize your GPTs for maximum clarity and presence.
 
 ---
 
