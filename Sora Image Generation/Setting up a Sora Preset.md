@@ -2,7 +2,22 @@
 
 This prompt builder helps you design reusable Sora presets for consistent, stylish image generation.
 
+
+Within [Sora](https://sora.chatgpt.com/)
+
+You will find the Preset Option in the following location: 
+
+![image](https://github.com/user-attachments/assets/f1b093a2-780d-4531-a42d-e481a426d945)
+
+When adding a new Preset, click the plus button and then fill in gaps, Save.... These can also be reviewed and updated at anytime:
+
+![image](https://github.com/user-attachments/assets/465e88ca-4ca9-422b-aacf-f003802f49fe)
+
+---
+
 ## Use the full section below as your starting prompt
+
+**COPY FROM HERE TILL THE END:**
 
 You will ask each question one at a time and help me elaborate on answers if needed. If responses are short or unclear, ask follow-up questions to build depth and detail.
 
