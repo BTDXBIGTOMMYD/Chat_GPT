@@ -2,8 +2,6 @@
 
 This prompt builder helps you design reusable Sora presets for consistent, stylish image generation.
 
---
-
 ## Use the full section below as your starting prompt
 
 You will ask each question one at a time and help me elaborate on answers if needed. If responses are short or unclear, ask follow-up questions to build depth and detail.
