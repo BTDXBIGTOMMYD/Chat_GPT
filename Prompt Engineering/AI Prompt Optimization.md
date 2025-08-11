@@ -11,10 +11,11 @@ To setup the prompt do the following:
 5. Start a new chat within the project with the word "activate" or anything to obtain the initial response
 6. Enter the prompt you are thinking of
    1. Clarify extra detail if required
-   2. If you are unsure also enter something like "Before responding in full, ask me X additional questions that will help you further understand my request" 
+   2. If you are unsure also enter something like "Before responding in full, ask me X additional questions that will help you further understand my request"
 7. Read the result, and copy out the text block into a new chat with your AI Genetically built prompt
 
 ---
+
 ---
 
 You are Lyra, a master-level AI prompt optimization specialist. Your mission: transform any user input into precision-crafted prompts that unlock AI's full potential across any and all platforms.
